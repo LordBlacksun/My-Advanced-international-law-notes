@@ -1,4 +1,112 @@
 
 15/10/2018
 
-  
+Lex fori: legge del luogo dove si svolge il processo
+
+a seconda del giurdice viene valuatata la lex fori per le varie deroghe speciali
+
+Parti convengono di attribuire la competenza a decidere di una controversia ai giudici di uno Stato che in base alle norme del proprio ordinamento non ha competenza in materia: accettazione della giurisdizione;
+Parti escludono la competenza esistente sulla base delle norme di un determinato ordinamento per sottoporre la controversia a arbitri o giudici stranieri: deroga alla giurisdizione;
+Parti scelgono fra le competenze offerte da un determinato sistema, eliminandone alcune a favore di quella che per effetto della loro scelta diventa esclusiva: proroga di giurisdizione.
+
+
+oggi si parla di estensione e limitazione della giursdizione Italiana.
+
+Deroga:
+Secondo articolo 4 legge 218/95 3. La deroga è inefficace se il giudice o gli arbitri incaricati declinano la
+giurisdizione o comunque non
+possono conoscere della causa.
+Significa che le parti concordano a sottrare la controversia a giurisdizione Italiana per darla o a giudice straniero o ad arbitro internazionale
+
+Arbitri Internazionali: (XID) <---- Centro Internazionali perle controversie sugli investimenti.
+
+
+art 4 Legge 218/95
+
+ Accettazione e deroga della giurisdizione.
+1. Quando non vi sia giurisdizione in base all'articolo 3, essa nondimeno
+sussiste se le parti l'abbiano
+convenzionalmente accettata e tale accettazione sia provata per iscritto,
+ovvero il convenuto compaia
+nel processo senza eccepire il difetto di giurisdizione nel primo atto difensivo.
+2. La giurisdizione italiana può essere convenzionalmente derogata a favore di
+un giudice straniero o di
+un arbitrato estero se la deroga è provata per iscritto e la causa verte su diritti
+disponibili.
+3. La deroga è inefficace se il giudice o gli arbitri incaricati declinano la
+giurisdizione o comunque non
+possono conoscere della causa.
+
+E' IMPOSSIBILE DEROGA IN BIANCO.
+
+oltrettuto è impossibile derogare su materie in cui giursdizione italiana ha supremazia (come in un caso di filiazione)
+
+Requisiti formali per deroga:  La giurisdizione italiana può essere convenzionalmente derogata a favore di
+un giudice straniero o di
+un arbitrato estero se la deroga è provata per iscritto e la causa verte su diritti
+disponibili. (Anche se vince l'articolo 25 bruxeselles I bis e va citato quello)
+
+
+PROROGA DI GIURISDIZIONE – art. 25 Reg BIbis  e artt. 12 RBIIbis
+
+"articolo 25 Brussel I bis .
+Qualora le parti, indipendentemente dal loro domicilio,
+abbiano convenuto la competenza di un’autorità o di autorità
+giurisdizionali di uno Stato membro a conoscere delle contro­
+versie, presenti o future, nate da un determinato rapporto giu­
+ridico, la competenza spetta a questa autorità giurisdizionale o
+alle autorità giurisdizionali di questo Stato membro, salvo che
+l’accordo sia nullo dal punto di vista della validità sostanziale
+secondo la legge di tale Stato membro. Detta competenza è
+esclusiva salvo diverso accordo tra le parti. L’accordo attributivo
+di competenza deve essere:"
+
+
+.
+Oltre che nei casi in cui la sua competenza giurisdizionale
+risulta da altre disposizioni del presente regolamento, l’autorità
+giurisdizionale di uno Stato membro davanti al quale il conve­
+nuto è comparso è competente. Tale norma non è applicabile se
+la comparizione avviene per eccepire l’incompetenza o se esiste
+un’altra autorità giurisdizionale esclusivamente competente ai
+sensi dell’articolo 24.
+2.
+Nelle materie di cui alle sezioni 3, 4 o 5, se il contraente
+dell’assicurazione, l’assicurato, il beneficiario di un contratto di
+assicurazione, la parte lesa, il consumatore o il lavoratore è il
+convenuto, l’autorità giurisdizionale, prima di dichiararsi com­
+petente ai sensi del paragrafo 1, si assicura che il convenuto sia
+informato del suo diritto di eccepire l’incompetenza dell’autorità
+giurisdizionale e delle conseguenze della comparizione o della
+mancata comparizione.
+
+requisiti di forma per  proroga
+ art 25, 1
+a) concluso per iscritto o provato per iscritto;
+b) in una forma ammessa dalle pratiche che le parti hanno
+stabilito tra di loro; o nel commercio internazionale, in una forma ammessa da un
+uso che le parti conoscevano o avrebbero dovuto conoscere
+e che, in tale ambito, è ampiamente conosciuto e regolar­
+mente rispettato dalle parti di contratti dello stesso tipo nel
+settore commerciale considerato.
+
+2.
+La forma scritta comprende qualsiasi comunicazione con
+mezzi elettronici che permetta una registrazione durevole del­
+l’accordo attributivo di competenza.
+
+-------------------------
+
+estensioni e limiti
+estenssioni: codificate in art 6/228/95
+"6. Questioni preliminari.
+1. Il giudice italiano conosce, incidentalmente, le questioni che non rientrano
+nella giurisdizione italiana
+e la cui soluzione è necessaria per decidere sulla domanda proposta"
+
+si estende perchè il giudice conoscie materie sulle quali nominalmente non avrebbe GIURISDIZIONE
+
+Valutzione di una situione giuridica che condiziona nel foro l'apllicazione di una legge .
+
+esempio: il matrimonio è questione preliminare alla filliazione
+o validità matrimonio è questione preliminare alla seperazione e divorzio
